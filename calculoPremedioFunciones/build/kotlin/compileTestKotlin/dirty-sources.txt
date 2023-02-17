@@ -1,0 +1,1 @@
+C:\Users\Dell\IdeaProjects\calculoPremedioFunciones\src\test\java\MainTest.kt

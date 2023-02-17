@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-15T19:41:12" hostname="DESKTOP-EMSFNAC" time="0.056">
+  <properties/>
+  <testcase name="probandoCon1ValorDiferentes()" classname="MainTest" time="0.056"/>
+  <system-out><![CDATA[Los valores del arreglo (A) son:
+[1, 2, 3, 4, 5, 6, 7, 8, 9]
+Los valores del arreglo (B) son:
+[2, 3, 4, 5, 6, 7, 8, 9]
+Los valores diferentes entre A y B son:
+[1]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-15T17:37:31" hostname="DESKTOP-EMSFNAC" time="0.084">
+  <properties/>
+  <testcase name="probandoFuncionDos()" classname="MainTest" time="0.084"/>
+  <system-out><![CDATA[ #0 = 120 
+ #1 = 121 
+ #2 = 122 
+ #3 = 123 
+ #4 = 124 
+ #5 = 125 
+ #6 = 126 
+ #7 = 127 
+ #8 = 128 
+ #9 = 129 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
